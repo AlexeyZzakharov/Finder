@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="finder">
+    <output-path>$PROJECT_DIR$/out/artifacts/finder</output-path>
+    <root id="archive" name="finder.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="NTRLab" />
+      <element id="library" level="project" name="Maven: commons-cli:commons-cli:1.4" />
+      <element id="library" level="project" name="Maven: org.jsoup:jsoup:1.11.3" />
+    </root>
+  </artifact>
+</component>
